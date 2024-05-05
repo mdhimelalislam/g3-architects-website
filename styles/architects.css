@@ -151,6 +151,7 @@ main {
 }
 .sponsors {
     text-align: center;
+    margin-top: 100px;
 }
 .sponsors-img-container {
     margin-top: 50px;
@@ -160,8 +161,12 @@ main {
     align-items: center;
 }
 .sponsors-img-container img {
-    width: 165px;
-    
+    width: 165px;  
+}
+.copyright {
+    background: rgba(255, 144, 14, 0.10);
+    margin-top: 130px;
+    padding: 10px;
 }
 
 
